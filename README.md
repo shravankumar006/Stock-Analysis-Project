@@ -1,6 +1,5 @@
 
-
-                                                                                    ** Stock Analysis Project **
+ ** Stock Analysis Project **
 ### Overview
  # This project performs a comprehensive analysis of tech company stock prices using historical data fetched via the yfinance library. The analysis includes visualizations of closing prices, stock trading volume, moving averages, daily returns, and correlations between major tech stocks (Apple, Google, Microsoft, Amazon). Additionally, the project demonstrates how to preprocess data and train machine learning models for predicting future stock prices.
 
